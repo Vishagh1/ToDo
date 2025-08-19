@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual environments
+# =========================
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Pipenv
+Pipfile.lock
+
+# =========================
+# Django
+# =========================
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# =========================
+# IDE / Editor settings
+# =========================
+# PyCharm
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# =========================
+# OS specific
+# =========================
+.DS_Store
+Thumbs.db
