@@ -4,6 +4,7 @@ A simple To-Do List web application built using Django.
 This project demonstrates core Django concepts like CRUD operations, templates, URL routing, and virtual environments.
 
 ⚙️ Setup & Run
+```bash
 git clone https://github.com/Vishagh1/ToDo.git
 cd ToDo
 pipenv install
